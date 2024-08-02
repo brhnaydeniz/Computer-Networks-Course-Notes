@@ -30,27 +30,27 @@ WANs consist of several components that work together to provide connectivity an
 ### 1. **Routers:**
 Routers are devices that direct data packets between different networks. In a WAN, routers are crucial for managing traffic and ensuring data reaches its intended destination.
 
-![Router](https://upload.wikimedia.org/wikipedia/commons/5/51/Router_front.jpg)
+![Router](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUrxc-26IsKpt-ViSA9DkOxlvitkWxx1MgEg&usqp=CAU)
 
 ### 2. **Switches:**
 Switches are used to connect devices within a network. In a WAN context, they help manage traffic within individual LANs that are connected to the WAN.
 
-![Switch](https://upload.wikimedia.org/wikipedia/commons/6/60/Network_switch.jpg)
+![Switch](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR7Sdh8oLobwBpvR8rbZ4YakpAafNU1DYoqIFXnW6aZvp6G_8ddE8EVsY&s=10)
 
 ### 3. **Leased Lines:**
 Leased lines are dedicated communication channels provided by service providers. They offer high-speed, reliable connections between different locations.
 
-![Leased Line](https://upload.wikimedia.org/wikipedia/commons/1/1b/Leased_line.jpg)
+![Leased Line](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkyTLRRYXmBxa1iciBWZarWXX28a3mmmG-oUh_YMsXNDmRFRi3imes42Z7&s=10)
 
 ### 4. **Satellite Links:**
 Satellite links use satellites to transmit data between remote locations. They are especially useful in areas where other forms of connectivity are not available.
 
-![Satellite Link](https://upload.wikimedia.org/wikipedia/commons/0/05/Satellite_dish.jpg)
+![Satellite Link](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCyGVnXl1KNMvQxEJat7X23TThvujqwf71A&usqp=CAU)
 
 ### 5. **Fiber Optic Cables:**
 Fiber optic cables use light signals to transmit data over long distances. They offer high bandwidth and fast data transfer rates, making them a popular choice for WANs.
 
-![Fiber Optic Cable](https://upload.wikimedia.org/wikipedia/commons/6/63/Fiber_optic_cable.jpg)
+![Fiber Optic Cable](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcPujki82VM6XBSDn_i8LM9hxfPxZLa0b6aQ&usqp=CAU)
 
 ---
 
@@ -114,27 +114,27 @@ WAN'lar, bağlantı ve veri iletimi sağlamak için birlikte çalışan çeşitl
 ### 1. **Yönlendiriciler (Routers):**
 Yönlendiriciler, veri paketlerini farklı ağlar arasında yönlendiren cihazlardır. WAN'da yönlendiriciler, trafiği yönetmek ve verilerin hedefe ulaşmasını sağlamak için önemlidir.
 
-![Router](https://upload.wikimedia.org/wikipedia/commons/5/51/Router_front.jpg)
+![Router](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUrxc-26IsKpt-ViSA9DkOxlvitkWxx1MgEg&usqp=CAU)
 
 ### 2. **Anahtarlar (Switches):**
 Anahtarlar, bir ağ içindeki cihazları bağlamak için kullanılır. WAN bağlamında, WAN'a bağlı olan bireysel LAN'lar içindeki trafiği yönetmeye yardımcı olurlar.
 
-![Switch](https://upload.wikimedia.org/wikipedia/commons/6/60/Network_switch.jpg)
+![Switch](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR7Sdh8oLobwBpvR8rbZ4YakpAafNU1DYoqIFXnW6aZvp6G_8ddE8EVsY&s=10)
 
 ### 3. **Kiralanmış Hatlar (Leased Lines):**
 Kiralanmış hatlar, servis sağlayıcılar tarafından sağlanan özel iletişim kanallarıdır. Farklı konumlar arasında yüksek hızlı ve güvenilir bağlantılar sunar.
 
-![Leased Line](https://upload.wikimedia.org/wikipedia/commons/1/1b/Leased_line.jpg)
+![Leased Line](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkyTLRRYXmBxa1iciBWZarWXX28a3mmmG-oUh_YMsXNDmRFRi3imes42Z7&s=10)
 
 ### 4. **Uydu Bağlantıları (Satellite Links):**
 Uydu bağlantıları, uzak konumlar arasında veri iletmek için uyduları kullanır. Diğer bağlantı türlerinin bulunmadığı alanlarda özellikle kullanışlıdır.
 
-![Satellite Link](https://upload.wikimedia.org/wikipedia/commons/0/05/Satellite_dish.jpg)
+![Satellite Link](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCyGVnXl1KNMvQxEJat7X23TThvujqwf71A&usqp=CAU)
 
 ### 5. **Fiber Optik Kablolar (Fiber Optic Cables):**
 Fiber optik kablolar, uzun mesafelerde veri iletmek için ışık sinyalleri kullanır. Yüksek bant genişliği ve hızlı veri transfer hızları sunar, bu nedenle WAN'lar için popüler bir tercihtir.
 
-![Fiber Optic Cable](https://upload.wikimedia.org/wikipedia/commons/6/63/Fiber_optic_cable.jpg)
+![Fiber Optic Cable](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcPujki82VM6XBSDn_i8LM9hxfPxZLa0b6aQ&usqp=CAU)
 
 ---
 

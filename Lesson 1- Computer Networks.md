@@ -82,13 +82,8 @@ Ağlar, çeşitli donanım ve yazılım bileşenlerinden oluşur. Temel bileşen
 
 ![IP Adresleme](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbdbPiE0bR_l91GFZU2U-Lxa9zDmNmFo3LxZshncUfyMkUjdpc2n_3Xq_B&s=10)
 
----
 
-Bu temel bilgilerle, bilgisayar ağlarının nasıl çalıştığını ve ağların genel yapısını anlamış olacaksınız. Bu dersin devamında, her bir konuyu daha ayrıntılı olarak inceleyeceğiz ve pratik uygulamalarla bilgilerinizi pekiştireceğiz.
 
-Sorularınız varsa veya herhangi bir konuda daha fazla bilgi almak isterseniz, lütfen bana sormaktan çekinmeyin. Hepinize verimli ve başarılı bir ders diliyorum!
-
----
 
 <a name="en"></a>
 ## EN: Introduction to Computer Networks

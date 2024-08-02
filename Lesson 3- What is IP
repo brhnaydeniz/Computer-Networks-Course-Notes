@@ -16,7 +16,7 @@ IP adresi (Internet Protocol Address), bir cihazın ağ üzerinde kimliğini bel
 - **Yönlendirme:** IP adresleri, verilerin doğru cihazlara yönlendirilmesini sağlar.
 - **Düzeyler:** IP adresleri, ağ üzerinde farklı düzeylerde çalışır (örneğin, yerel ağ veya geniş alan ağı).
 
-![IP Adresi](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/IPv4_Addressing.svg/2560px-IPv4_Addressing.svg.png)
+![IP Adresi](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg3YTbx6jdp94X1JPoUk5Xch71vEImom7lpfnyOTEdwOZEOGeNWhn9eBc&s=10)
 
 ## 2. IP Adresi Türleri
 
@@ -38,7 +38,7 @@ IPv6, IPv4'ün sınırlamalarını aşmak için geliştirilmiştir. 128 bit uzun
 - **Toplam Adres Sayısı:** 2^128 (yaklaşık 3.4 x 10^38 adres)
 - **Kullanım Alanları:** Gelecekteki ağlar, büyük ölçekli internet uygulamaları.
 
-![IPv6 Adresi](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/IPv6_Addr_Format.png/2560px-IPv6_Addr_Format.png)
+![IPv6 Adresi](https://cdn.ttgtmedia.com/rms/onlineimages/whatis-ipv6_address-h_half_column_mobile.png)
 
 ## 3. IP Adresi Sınıfları
 
@@ -79,7 +79,7 @@ Alt ağ maskesi, IP adreslerinin hangi kısmının ağ adresini ve hangi kısmı
 - **255.255.0.0 (Sınıf B)**
 - **255.255.255.0 (Sınıf C)**
 
-![Subnetting](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/IPv4_Subnetting_Example.svg/2560px-IPv4_Subnetting_Example.svg.png)
+![Subnetting](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr4KafVT5SO7-9XcK8b2xExvNJMh1dqeq1wLwp9dDnZVq7VDeLtidhHDrA&s=10)
 
 ### CIDR (Classless Inter-Domain Routing)
 CIDR, IP adresleri ve alt ağ maskelerinin daha esnek bir şekilde yönetilmesini sağlar. CIDR notasyonu şu şekilde gösterilir: `192.168.1.0/24`.
@@ -92,7 +92,7 @@ Statik IP adresi, cihazlara manuel olarak atanır ve genellikle sabit bir bağla
 ### Dinamik IP Adresi
 Dinamik IP adresi, DHCP (Dynamic Host Configuration Protocol) sunucusu tarafından otomatik olarak atanır. Bu yöntem, IP adreslerinin ağ üzerindeki cihazlar arasında dinamik olarak dağıtılmasını sağlar.
 
-![DHCP](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/DHCP_Simple_Deployment.svg/2560px-DHCP_Simple_Deployment.svg.png)
+![DHCP](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq2Qlr-n2OE8phxTW3B7ZvFQ4S9ViqkEzrrWJ4AT4fEZ0m1OR6RrKZgQeG&s=10)
 
 ---
 
@@ -114,7 +114,7 @@ An IP address (Internet Protocol Address) is a unique number that identifies a d
 - **Routing:** IP addresses facilitate the routing of data to the correct devices.
 - **Layers:** IP addresses operate at various levels on a network (e.g., local network or wide area network).
 
-![IP Address](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/IPv4_Addressing.svg/2560px-IPv4_Addressing.svg.png)
+![IP Address](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg3YTbx6jdp94X1JPoUk5Xch71vEImom7lpfnyOTEdwOZEOGeNWhn9eBc&s=10)
 
 ## 2. Types of IP Addresses
 
@@ -136,7 +136,7 @@ IPv6 was developed to overcome the limitations of IPv4. It is 128 bits long and 
 - **Total Number of Addresses:** 2^128 (approximately 3.4 x 10^38 addresses)
 - **Usage:** Future networks, large-scale internet applications.
 
-![IPv6 Address](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/IPv6_Addr_Format.png/2560px-IPv6_Addr_Format.png)
+![IPv6 Address](https://cdn.ttgtmedia.com/rms/onlineimages/whatis-ipv6_address-h_half_column_mobile.png)
 
 ## 3. IP Address Classes
 
@@ -177,7 +177,7 @@ A subnet mask indicates which portion of the IP address is the network address a
 - **255.255.0.0 (Class B)**
 - **255.255.255.0 (Class C)**
 
-![Subnetting](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/IPv4_Subnetting_Example.svg/2560px-IPv4_Subnetting_Example.svg.png)
+![Subnetting](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr4KafVT5SO7-9XcK8b2xExvNJMh1dqeq1wLwp9dDnZVq7VDeLtidhHDrA&s=10)
 
 ### CIDR (Classless Inter-Domain Routing)
 CIDR allows for more flexible IP address management. CIDR notation is shown as: `192.168.1.0/24`.
@@ -190,7 +190,7 @@ A static IP address is manually assigned to a device and remains constant. It is
 ### Dynamic IP Address
 A dynamic IP address is automatically assigned by a DHCP (Dynamic Host Configuration Protocol) server. This method allows IP addresses to be dynamically allocated among devices on the network.
 
-![DHCP](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/DHCP_Simple_Deployment.svg/2560px-DHCP_Simple_Deployment.svg.png)
+![DHCP](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq2Qlr-n2OE8phxTW3B7ZvFQ4S9ViqkEzrrWJ4AT4fEZ0m1OR6RrKZgQeG&s=10)
 
 ---
 

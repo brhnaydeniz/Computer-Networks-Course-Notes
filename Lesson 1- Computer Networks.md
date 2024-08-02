@@ -18,9 +18,8 @@ Bilgisayar ağları, iki veya daha fazla bilgisayarın ve diğer cihazların bir
 ![Bilgisayar Ağı](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3w0rnqZY5g2nmllYlcUietPwmYCzOHEBoTqMnKRmryr8rfcWK5zi0LPSC&s=10)
 
  ### 2. Ağ Türleri
- ---
+ 
  Ağlar, kapsadıkları alanlara göre isimlendirilir;
- ---
 
 - **Yerel Alan Ağı (LAN):** Sınırlı bir alanda (örneğin, bir bina veya kampüs) bulunan cihazları birbirine bağlar.
 - **Geniş Alan Ağı (WAN):** Birbirinden uzak coğrafi konumlarda bulunan cihazları bağlar. İnternet, en büyük WAN örneğidir.

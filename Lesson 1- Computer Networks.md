@@ -1,4 +1,4 @@
-#TR: 
+# TR: 
  # Bilgisayar Ağlarına Giriş
 
 **Merhaba ve hoş geldiniz!**

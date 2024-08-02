@@ -38,7 +38,7 @@ Yerel Alan Ağı (LAN), genellikle bir bina veya kampüs içindeki cihazları bi
 - **Wi-Fi:** Kablosuz ağlar için IEEE 802.11 standardına dayanır.
 - **Token Ring:** Veri iletimi için token kullanır.
 
-![LAN](https://upload.wikimedia.org/wikipedia/commons/3/3d/Star_Topology.jpg)
+![LAN](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfgZ4aDlLZcepuCJhF9OjKVdxlN6MY2R-wpjb3cba_Ea0lNPLFxhL6fIH-&s=10)
 
 ## 2. Geniş Alan Ağı (WAN)
 
@@ -70,7 +70,7 @@ Geniş Alan Ağı (WAN), geniş coğrafi alanları kapsayan ve genellikle ülkel
 - **ATM (Asynchronous Transfer Mode):** Sabit boyutlu hücrelerle veri iletimi yapar.
 - **Frame Relay:** Veri paketlerini yönlendirir.
 
-![WAN](https://upload.wikimedia.org/wikipedia/commons/9/98/Bus_network_topology_diagram.jpg)
+![WAN](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjlSUdh_lCwrH9lc__fTvhWpuBqb-Y6STskg&usqp=CAU)
 
 ## 3. Metropol Alan Ağı (MAN)
 
@@ -102,7 +102,7 @@ Metropol Alan Ağı (MAN), genellikle bir şehir veya büyük bir yerleşim alan
 - **Metro Ethernet:** Şehir içindeki büyük ağları bağlar.
 - **FDDI (Fiber Distributed Data Interface):** Yüksek hızda veri iletimi sağlar.
 
-![MAN](https://upload.wikimedia.org/wikipedia/commons/2/2d/Metro-Ethernet.png)
+![MAN](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWZIj2j-2fsX8aDmmG4cBLTuiLbuqz1UkoXGNiM3eZeiqPXVp1_Ek8hVA&s=10)
 
 ## 4. Kampüs Alan Ağı (CAN)
 
@@ -134,7 +134,7 @@ Kampüs Alan Ağı (CAN), bir kampüs veya büyük bir eğitim kurumu gibi sın�
 - **Ethernet:** Yüksek hızda veri iletimi sağlar.
 - **Wi-Fi:** Kablosuz bağlantı sağlar.
 
-![CAN](https://upload.wikimedia.org/wikipedia/commons/6/66/Ethernet_1.jpg)
+![CAN](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRusDuxYm7h8AWt-W6kAUMk79sv_Uo8QyhEK_7TStrkNgQojV-4WvDnmx0A&s=10)
 
 ## 5. Kişisel Alan Ağı (PAN)
 
@@ -160,7 +160,7 @@ Kişisel Alan Ağı (PAN), bireysel cihazlar arasında veri aktarımını sağla
 - **Bluetooth:** Kısa mesafelerde veri iletimi sağlar.
 - **Infrared Data Association (IrDA):** Kızılötesi veri aktarımı sağlar.
 
-![PAN](https://upload.wikimedia.org/wikipedia/commons/d/da/Bluetooth_Pan.jpg)
+![PAN](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS548-SGmhBHXyPLvQutdRnPAIjT6MQZdqIIQ&usqp=CAU)
 
 ---
 
@@ -204,7 +204,7 @@ A Local Area Network (LAN) is a network that connects devices within a limited g
 - **Wi-Fi:** Based on IEEE 802.11 standard for wireless networks.
 - **Token Ring:** Uses tokens for data transmission.
 
-![LAN](https://upload.wikimedia.org/wikipedia/commons/3/3d/Star_Topology.jpg)
+![LAN](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfgZ4aDlLZcepuCJhF9OjKVdxlN6MY2R-wpjb3cba_Ea0lNPLFxhL6fIH-&s=10)
 
 ## 2. Wide Area Network (WAN)
 
@@ -236,7 +236,7 @@ A Wide Area Network (WAN) covers large geographic areas and typically spans coun
 - **ATM (Asynchronous Transfer Mode):** Uses fixed-size cells for data transfer.
 - **Frame Relay:** Manages data packet routing.
 
-![WAN](https://upload.wikimedia.org/wikipedia/commons/9/98/Bus_network_topology_diagram.jpg)
+![WAN](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjlSUdh_lCwrH9lc__fTvhWpuBqb-Y6STskg&usqp=CAU)
 
 ## 3. Metropolitan Area Network (MAN)
 
@@ -268,7 +268,7 @@ A Metropolitan Area Network (MAN) connects devices and networks within a metropo
 - **Metro Ethernet:** Connects large city networks.
 - **FDDI (Fiber Distributed Data Interface):** Provides high-speed data transfer.
 
-![MAN](https://upload.wikimedia.org/wikipedia/commons/2/2d/Metro-Ethernet.png)
+![MAN](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWZIj2j-2fsX8aDmmG4cBLTuiLbuqz1UkoXGNiM3eZeiqPXVp1_Ek8hVA&s=10)
 
 ## 4. Campus Area Network (CAN)
 
@@ -300,7 +300,7 @@ A Campus Area Network (CAN) is a network that connects devices and networks with
 - **Ethernet:** Provides high-speed data transfer.
 - **Wi-Fi:** Provides wireless connectivity.
 
-![CAN](https://upload.wikimedia.org/wikipedia/commons/6/66/Ethernet_1.jpg)
+![CAN](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRusDuxYm7h8AWt-W6kAUMk79sv_Uo8QyhEK_7TStrkNgQojV-4WvDnmx0A&s=10)
 
 ## 5. Personal Area Network (PAN)
 
@@ -326,7 +326,7 @@ A Personal Area Network (PAN) is a network that connects personal devices within
 - **Bluetooth:** Facilitates short-range data transfer.
 - **Infrared Data Association (IrDA):** Provides infrared data transfer.
 
-![PAN](https://upload.wikimedia.org/wikipedia/commons/d/da/Bluetooth_Pan.jpg)
+![PAN](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS548-SGmhBHXyPLvQutdRnPAIjT6MQZdqIIQ&usqp=CAU)
 
 ---
 

@@ -17,12 +17,16 @@ Bilgisayar ağları, iki veya daha fazla bilgisayarın ve diğer cihazların bir
 
 ![Bilgisayar Ağı](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3w0rnqZY5g2nmllYlcUietPwmYCzOHEBoTqMnKRmryr8rfcWK5zi0LPSC&s=10)
 
-### 2. Ağ Türleri
+ ### 2. Ağ Türleri
+ ---
+ Ağlar, kapsadıkları alanlara göre isimlendirilir;
+ ---
 
 - **Yerel Alan Ağı (LAN):** Sınırlı bir alanda (örneğin, bir bina veya kampüs) bulunan cihazları birbirine bağlar.
 - **Geniş Alan Ağı (WAN):** Birbirinden uzak coğrafi konumlarda bulunan cihazları bağlar. İnternet, en büyük WAN örneğidir.
 - **Metropol Alan Ağı (MAN):** Bir şehir veya büyük bir yerleşim yeri gibi daha geniş alanları kapsar.
 - **Kişisel Alan Ağı (PAN):** Kişisel cihazlar arasında veri aktarımı sağlar, örneğin, bilgisayar ve akıllı telefonlar arasındaki Bluetooth bağlantısı.
+- **Kampüs Alan Ağı (CAN):** Bir üniversite kampüsü veya büyük bir kurumsal kampüs gibi birden fazla bina ve lokasyonu birbirine bağlayan ağ türüdür.
 
 ![Ağ Türleri](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxu-Rmqp1E7m5lbfO_G3f9NnLBg9drkeqT-smhBA5vOI2doDXIbg8ZBp31&s=10)
 
@@ -83,8 +87,6 @@ Ağlar, çeşitli donanım ve yazılım bileşenlerinden oluşur. Temel bileşen
 ![IP Adresleme](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbdbPiE0bR_l91GFZU2U-Lxa9zDmNmFo3LxZshncUfyMkUjdpc2n_3Xq_B&s=10)
 
 
-
-
 <a name="en"></a>
 ## EN: Introduction to Computer Networks
 
@@ -104,6 +106,7 @@ Computer networks are systems that allow two or more computers and other devices
 - **Wide Area Network (WAN):** Connects devices located in different geographical locations. The internet is the largest WAN example.
 - **Metropolitan Area Network (MAN):** Covers larger areas such as a city or large town.
 - **Personal Area Network (PAN):** Allows data transfer between personal devices, such as the Bluetooth connection between a computer and a smartphone.
+- **Campus Area Network (CAN):** Connects multiple buildings and locations within a university campus or large corporate campus.
 
 ![Network Types](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxu-Rmqp1E7m5lbfO_G3f9NnLBg9drkeqT-smhBA5vOI2doDXIbg8ZBp31&s=10)
 

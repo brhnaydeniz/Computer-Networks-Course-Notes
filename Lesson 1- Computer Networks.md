@@ -74,7 +74,21 @@ Ağlar, çeşitli donanım ve yazılım bileşenlerinden oluşur. Temel bileşen
 - **Yönlendiriciler (Routers):** Farklı ağlar arasında veri paketlerini yönlendirir.
 - **Anahtarlar (Switches):** Aynı ağdaki cihazlar arasında veri iletimini sağlar.
 - **Erişim Noktaları (Access Points):** Kablosuz cihazların ağa bağlanmasını sağlar.
+- **Tekrarlayıcılar (Repeaters):** Zayıflayan sinyalleri yeniden güçlendirir ve iletim mesafesini artırır.
+- **Hub:** Birden fazla cihazı aynı ağda toplar ve verileri tüm portlara ileterek cihazların iletişim kurmasını sağlar.
+- **Köprüler (Bridges):** İki veya daha fazla ağ segmentini birbirine bağlar ve veri trafiğini yönlendirir.
+- **Ağ Geçidi (Gateway):** Farklı protokoller arasında veri dönüştürmesi yaparak ağlar arasında iletişimi sağlar.
 - **Ağ Kabloları:** Cihazlar arasındaki fiziksel bağlantıları sağlar.
+
+#### Fiziksel Aktarım Birimleri
+
+- **Kablolar:**
+  - **Bakır Kablolar:**
+    - **Çift Bükümlü Kablolar (Twisted Pair):** İki tel çiftinin bükülmesiyle oluşur ve genellikle veri iletiminde kullanılır. İki türü vardır:
+      - **Korumalı Çift Bükümlü Kablolar (Shielded Twisted Pair - STP):** Elektromanyetik paraziti azaltmak için ek bir koruma tabakası içerir.
+      - **Korumalı Olmayan Çift Bükümlü Kablolar (Unshielded Twisted Pair - UTP):** Ek koruma tabakası bulunmayan, daha yaygın kullanılan kablo türüdür.
+  - **Fiber Optik Kablolar:** Işık sinyalleri kullanarak veri iletimini sağlar ve yüksek hızda veri aktarımı için kullanılır.
+
 
 ![Ağ Bileşenleri](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdwdTcnv8VtDkySZMDLjiyoUfkfv20EiyxWpPp46HUQiDSElbxRsedlDk&s=10)
 
@@ -154,7 +168,22 @@ Networks consist of various hardware and software components. The basic componen
 - **Routers:** Direct data packets between different networks.
 - **Switches:** Facilitate data transmission between devices within the same network.
 - **Access Points:** Allow wireless devices to connect to the network.
+- **Repeaters:** Amplify weakened signals to extend transmission distance.
+- **Hub:** Connects multiple devices on the same network and broadcasts data to all ports, allowing devices to communicate.
+- **Bridges:** Connect two or more network segments and direct data traffic between them.
+- **Gateways:** Facilitate communication between networks with different protocols by performing data conversion.
+
 - **Network Cables:** Provide physical connections between devices.
+
+#### Physical Transmission Units
+
+- **Cables:**
+  - **Copper Cables:**
+    - **Twisted Pair Cables:** Consist of pairs of twisted wires and are commonly used for data transmission. There are two types:
+      - **Shielded Twisted Pair (STP):** Includes an additional shielding layer to reduce electromagnetic interference.
+      - **Unshielded Twisted Pair (UTP):** Does not have additional shielding and is more commonly used.
+  - **Fiber Optic Cables:** Use light signals for data transmission and are used for high-speed data transfer.
+
 
 ![Network Components](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdwdTcnv8VtDkySZMDLjiyoUfkfv20EiyxWpPp46HUQiDSElbxRsedlDk&s=10)
 

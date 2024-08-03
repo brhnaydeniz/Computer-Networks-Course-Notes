@@ -35,7 +35,7 @@ STP kablolar, her çift bükümlü telin çevresinde bir ekranlama tabakası ile
 - Daha pahalıdır.
 - Daha kalın ve daha az esnektir.
 
-![STP Kablo](https://www.computercablestore.com/media/wysiwyg/STP-vs-UTP.jpg)
+![STP Kablo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcy6E1ilm68cZMZ67ui0EvFJICZauZoI2XWFNTulW5veVuzkqWRqALg5w&s=10)
 
 ### [Çift Bükümlü Korumasız Kablolar (UTP)](#utp)
 
@@ -49,7 +49,7 @@ UTP kablolar, çift bükümlü tellerin etrafında herhangi bir ekranlama olmada
 - Daha fazla elektromanyetik girişime maruz kalır.
 - Daha düşük veri iletim hızı.
 
-![UTP Kablo](https://www.computercablestore.com/media/wysiwyg/STP-vs-UTP.jpg)
+![UTP Kablo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkKcEVxZM_w1OQmYbA7DaWTSOVKiKC1LYI1w&usqp=CAU)
 
 <a name="fiber-optik-kablolar"></a>
 ## 2. Fiber Optik Kablolar
@@ -68,7 +68,7 @@ Tek modlu fiber optik kablolar, daha uzun mesafelerde veri iletimi için kullan�
 - Daha pahalıdır.
 - Kurulumu ve bakımı daha zordur.
 
-![Tek Modlu Fiber](https://www.fiberoptics4sale.com/blogs/archive-posts/95027654-single-mode-vs-multimode-fiber)
+![Tek Modlu Fiber](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZpdKnzrN82gfuEI1lEcWXk9l1IM_peuqzLehtfq6_8BdHPKSYwJfAevA&s=10)
 
 ### [Çok Modlu Fiber Optik Kablolar](#cok-modlu)
 
@@ -82,7 +82,7 @@ Tek modlu fiber optik kablolar, daha uzun mesafelerde veri iletimi için kullan�
 - Daha kısa mesafelerde veri iletimi sağlar.
 - Daha fazla sinyal kaybı.
 
-![Çok Modlu Fiber](https://www.fiberoptics4sale.com/blogs/archive-posts/95027654-single-mode-vs-multimode-fiber)
+![Çok Modlu Fiber](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW13Wl6-3fKNaABb2Gs7pIomBfFv_cqXds2bFCfpcWi8YheqgBXXHqeVwh&s=10)
 
 <a name="karsilastirma"></a>
 ## 3. Bakır Kablolar ve Fiber Optik Kabloların Karşılaştırması
@@ -105,7 +105,7 @@ Ağ kablolarının düzgün çalışabilmesi için doğru şekilde sonlandırıl
 
 T568A ve T568B, RJ-45 konektörlerinde kullanılan çift bükümlü bakır kabloların sonlandırılması için yaygın olarak kullanılan iki renk kodlama şemasıdır. Her iki standart da aynı performansı sunar, ancak farklı renk düzenlerine sahiptir.
 
-![T568A ve T568B](https://cdn.sparkfun.com/assets/6/8/3/5/6/526aee4dce395f8f298b456b.png)
+![T568A ve T568B](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFKLGSH1woRTnBc4WwAAcO1k6D95iZ6a7CLO0qeBoQ8us8Iqg4_osIHws&s=10)
 
 #### T568A Renk Düzeni:
 1. Beyaz/Yeşil
@@ -175,7 +175,7 @@ STP cables come with a shielding layer around each twisted pair of wires. This s
 - More expensive.
 - Thicker and less flexible.
 
-![STP Cable](https://www.computercablestore.com/media/wysiwyg/STP-vs-UTP.jpg)
+![STP Cable](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcy6E1ilm68cZMZ67ui0EvFJICZauZoI2XWFNTulW5veVuzkqWRqALg5w&s=10)
 
 ### [Unshielded Twisted Pair Cables (UTP)](#utp)
 
@@ -189,7 +189,7 @@ UTP cables come without any shielding around the twisted pairs. They are more co
 - More susceptible to electromagnetic interference.
 - Lower data transmission speed.
 
-![UTP Cable](https://www.computercablestore.com/media/wysiwyg/STP-vs-UTP.jpg)
+![UTP Cable](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkKcEVxZM_w1OQmYbA7DaWTSOVKiKC1LYI1w&usqp=CAU)
 
 <a name="fiber-optic-cables"></a>
 ## 2. Fiber Optic Cables
@@ -208,7 +208,7 @@ Single-mode fiber optic cables are used for long-distance data transmission. The
 - More expensive.
 - More difficult to install and maintain.
 
-![Single-Mode Fiber](https://www.fiberoptics4sale.com/blogs/archive-posts/95027654-single-mode-vs-multimode-fiber)
+![Single-Mode Fiber](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZpdKnzrN82gfuEI1lEcWXk9l1IM_peuqzLehtfq6_8BdHPKSYwJfAevA&s=10)
 
 ### [Multi-Mode Fiber Optic Cables](#multi-mode)
 
@@ -222,7 +222,7 @@ Multi-mode fiber optic cables are used for short-distance data transmission. The
 - Supports shorter distances.
 - More signal loss.
 
-![Multi-Mode Fiber](https://www.fiberoptics4sale.com/blogs/archive-posts/95027654-single-mode-vs-multimode-fiber)
+![Multi-Mode Fiber](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW13Wl6-3fKNaABb2Gs7pIomBfFv_cqXds2bFCfpcWi8YheqgBXXHqeVwh&s=10)
 
 <a name="comparison"></a>
 ## 3. Comparison of Copper and Fiber Optic Cables
@@ -245,7 +245,7 @@ For network cables to function properly, they need to be terminated correctly. T
 
 T568A and T568B are the two color coding schemes used for terminating twisted pair copper cables with RJ-45 connectors. Both standards offer the same performance but have different color arrangements.
 
-![T568A and T568B](https://cdn.sparkfun.com/assets/6/8/3/5/6/526aee4dce395f8f298b456b.png)
+![T568A and T568B](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFKLGSH1woRTnBc4WwAAcO1k6D95iZ6a7CLO0qeBoQ8us8Iqg4_osIHws&s=10)
 
 #### T568A Color Scheme:
 1. White/Green
